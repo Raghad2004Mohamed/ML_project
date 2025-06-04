@@ -5,4 +5,4 @@ https://github.com/user-attachments/files/20418053/Epileptic.Seizure.Recognition
 # Web link in this word file
 https://github.com/user-attachments/files/20597851/web.link.docx
 # py notebook link
-https://github.com/Raghad2004Mohamed/ML_project/issues/4#issue-3118955515 
+https://github.com/Raghad2004Mohamed/ML_project/blob/main/untitled8%20(7).py
