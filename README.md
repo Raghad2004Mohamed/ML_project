@@ -10,3 +10,5 @@ https://github.com/Raghad2004Mohamed/ML_project/blob/main/machine%20learning%20n
 https://github.com/Raghad2004Mohamed/ML_project/blob/main/DL%20project.ipynb
 # py notebook link
 https://github.com/Raghad2004Mohamed/ML_project/blob/main/untitled8%20(7).py
+# pkl file (support deployment part)
+https://github.com/Raghad2004Mohamed/ML_project/blob/main/model.pkl
