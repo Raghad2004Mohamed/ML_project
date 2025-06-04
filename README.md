@@ -8,7 +8,7 @@ https://github.com/user-attachments/files/20597851/web.link.docx
 https://github.com/Raghad2004Mohamed/ML_project/blob/main/machine%20learning%20notebook.ipynb
 # Deep learning notebook
 https://github.com/Raghad2004Mohamed/ML_project/blob/main/DL%20project.ipynb
-# py notebook link
+# file.py notebook
 https://github.com/Raghad2004Mohamed/ML_project/blob/main/untitled8%20(7).py
 # pkl file (support deployment part)
 https://github.com/Raghad2004Mohamed/ML_project/blob/main/model.pkl
