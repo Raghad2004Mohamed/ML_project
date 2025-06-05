@@ -3,7 +3,7 @@ Can we build a machine learning model to predict whether a patient is experienci
 # csv file
 https://github.com/user-attachments/files/20418053/Epileptic.Seizure.Recognition.csv
 # Web link in this word file
-https://github.com/user-attachments/files/20597851/web.link.docx
+https://mlproject-zbxjdtegfrjelzptnawn5x.streamlit.app/
 # Machine learning notebook 
 https://github.com/Raghad2004Mohamed/ML_project/blob/main/machine%20learning%20notebook.ipynb
 # Deep learning notebook
