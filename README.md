@@ -2,7 +2,7 @@
 Can we build a machine learning model to predict whether a patient is experiencing an epileptic seizure based on EEG signals?
 # csv file
 https://github.com/user-attachments/files/20418053/Epileptic.Seizure.Recognition.csv
-# Web link in this word file
+# Web link
 https://mlproject-zbxjdtegfrjelzptnawn5x.streamlit.app/
 # Machine learning notebook 
 https://github.com/Raghad2004Mohamed/ML_project/blob/main/machine%20learning%20notebook.ipynb
