@@ -1,4 +1,5 @@
 # ML_project
+#I performed all data cleaning steps within my submitted notebook using code. The cleaned dataset can be fully reproduced by running the notebook from the original raw data.
 Can we build a machine learning model to predict whether a patient is experiencing an epileptic seizure based on EEG signals?
 # csv file
 https://github.com/user-attachments/files/20418053/Epileptic.Seizure.Recognition.csv
