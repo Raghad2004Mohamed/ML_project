@@ -4,6 +4,9 @@ Can we build a machine learning model to predict whether a patient is experienci
 
 #I performed all data cleaning steps within my submitted notebook using code. The cleaned dataset can be fully reproduced by running the notebook from the original raw data.
 
+Name: Raghad Mohamed Ahmed AbdElKader
+ID:221001278
+
 # csv file
 https://github.com/user-attachments/files/20418053/Epileptic.Seizure.Recognition.csv
 # Web link
